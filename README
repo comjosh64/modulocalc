@@ -2,3 +2,9 @@ modcalc is a simple program to help calculate modulo.
 
 Modulo is a common mathmatical operator in C and other languages, that does not have "button" on
     most calculators to complete this operation.
+    
+    note: The current version of modcalc uses the cs50 library, the only functions being used from this library are:
+        GetString()
+        GetInt()
+        
+    Planned revision: use standard libraries only.
