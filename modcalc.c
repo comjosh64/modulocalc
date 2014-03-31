@@ -25,5 +25,6 @@ int main(void)
     printf("%s!\n", done);
     system("clear");
     
+    printf("Have a nice day!\n")
     return 0;
 }
